@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "shop": "一点点",
+    "picture": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1547812065570&di=9430fae1b4cbe1a9b4eb509111f599e7&imgtype=0&src=http%3A%2F%2Fimg.91goodschool.com%2FUpFiles%2Fag%2F3860%2F2022%2F201804%2F12%2F104743421968.jpg",
+    "product": "四季春茶",
+    "price": 7,
+    "ifCommented": true
+  },
+  {
+    "id": 2,
+    "shop": "一点点",
+    "picture": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1547812763854&di=a0a2120c5a80ce6f2d84d9617001164e&imgtype=0&src=http%3A%2F%2Fpic31.photophoto.cn%2F20140425%2F0022005744495929_b.jpg",
+    "product": "茉莉绿茶",
+    "price": 7,
+    "ifCommented": false
+  },
+  {
+    "id": 3,
+    "shop": "一点点",
+    "picture": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=258915476,606280595&fm=15&gp=0.jpg",
+    "product": "仙草奶冻",
+    "price": 10,
+    "ifCommented": false
+  },
+  {
+    "id": 4,
+    "shop": "点都德",
+    "picture": "http://qcloud.dpfile.com/pc/Ub2zFWBmRrpO_gA3RQ-bI5o5LDKKhpJRxlwPmjZxeRcLJfV-4Vsy2vcytSds15ERuzFvxlbkWx5uwqY2qcjixFEuLYk00OmSS1IdNpm8K8twhW7bzr4O88Ivp4FuDG0SfCF2ubeXzk49OsGrXt_KYDCngOyCwZK-s3fqawWswzk.jpg",
+    "product": "金牌虾饺皇",
+    "price": 27,
+    "ifCommented": false
+  },
+  {
+    "id": 5,
+    "shop": "点都德",
+    "picture": "http://qcloud.dpfile.com/pc/mu2V8qBKOSd7jY8oxACtIRNViZc-j9Uo6WvD3PoE7jJReOmlC99TbGR2C9Ecoc-zuzFvxlbkWx5uwqY2qcjixFEuLYk00OmSS1IdNpm8K8twhW7bzr4O88Ivp4FuDG0SfCF2ubeXzk49OsGrXt_KYDCngOyCwZK-s3fqawWswzk.jpg",
+    "product": "金沙红米肠",
+    "price": 29,
+    "ifCommented": false
+  }
+]
